@@ -1,0 +1,228 @@
+{
+  "id": "9a726597-cf80-4d18-8c9c-08bffb408f05",
+  "name": "orderpizza",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "orderpizza",
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "id": "e82ec145-47ff-4b21-a78a-0725ce373594",
+          "name": "pizzaname",
+          "required": true,
+          "dataType": "@pizzaname",
+          "value": "$pizzaname",
+          "defaultValue": "",
+          "isList": true,
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Which pizza 🍕🍕🍕🍕would you like to have ? Our options ( PANEER ,PINEAPPLE , CHICKEN DELIGHT , CHICKEN TANDOOR)"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "ff0571cc-cb5f-4921-8645-f632e18aa3d6",
+          "name": "pizzatopping",
+          "required": true,
+          "dataType": "@pizzatopping",
+          "value": "$pizzatopping",
+          "defaultValue": "",
+          "isList": true,
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Which pizza 🍕🍕topping would you like to prefer ? Our options : (ONION ,OLIVES , CHEESE)"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "07d908f1-5f1e-4d0c-a68a-ff135aabb6e9",
+          "name": "pizzacrust",
+          "required": true,
+          "dataType": "@pizzacrust",
+          "value": "$pizzacrust",
+          "defaultValue": "",
+          "isList": true,
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Which type pizza 🍕🍕 crust do you prefer ? Our options :( THIN , HAND TOSSED , CHEESE)"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "b4b9fe5a-fdb2-4c7b-9c7f-bb52eb9bbb36",
+          "name": "pizzasize",
+          "required": true,
+          "dataType": "@pizzasize",
+          "value": "$pizzasize",
+          "defaultValue": "",
+          "isList": true,
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "What size would you like for your pizza 🍕🍕 ? Our options : ( SMALL ,MEDIUM, LARGE ,EXTRA LARGE)"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "123df873-d9d8-460a-b1ad-cd6186f328b1",
+          "name": "count",
+          "required": true,
+          "dataType": "@count",
+          "value": "$count",
+          "defaultValue": "",
+          "isList": true,
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "How many pizzas do you want 🍕🍕(Max 3 in one takeaway)?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "240ea4ff-7aa7-4068-9ace-cc9b6ccfb1bb",
+          "name": "phonebook",
+          "required": true,
+          "dataType": "@phonebook",
+          "value": "$phonebook",
+          "defaultValue": "",
+          "isList": true,
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Could you tell your contact number  📱?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "ef688db2-8868-4245-82c0-0b7588ac669c",
+          "name": "date",
+          "required": true,
+          "dataType": "@sys.date",
+          "value": "$date",
+          "defaultValue": "",
+          "isList": true,
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Date on which you prefer the  delivery 📅 ?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "4eafe4d4-b2fa-4783-a346-cad8037bf2c9",
+          "name": "time",
+          "required": true,
+          "dataType": "@sys.time",
+          "value": "$time",
+          "defaultValue": "",
+          "isList": true,
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Prefreable time for delivery ⌛?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "3191d6a2-331d-4cbf-9569-f60d4ef13112",
+          "name": "listname",
+          "required": true,
+          "dataType": "@sys.any",
+          "value": "$listname",
+          "defaultValue": "",
+          "isList": true,
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Could You tell your name ?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "5e66e655-51cf-4c96-85b0-64d5b3cd342f",
+          "name": "listad",
+          "required": true,
+          "dataType": "@sys.any",
+          "value": "$listad",
+          "defaultValue": "",
+          "isList": true,
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Could you tell your adress 🏠 ?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

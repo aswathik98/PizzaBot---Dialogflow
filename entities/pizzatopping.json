@@ -1,0 +1,9 @@
+{
+  "id": "73a800ca-96f0-429d-a0b1-0d3f83d6dd39",
+  "name": "pizzatopping",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

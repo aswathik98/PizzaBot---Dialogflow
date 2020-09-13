@@ -1,0 +1,9 @@
+{
+  "id": "934f561f-5e33-441d-95e9-6610e8634e3a",
+  "name": "phonebook",
+  "isOverridable": true,
+  "isEnum": true,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

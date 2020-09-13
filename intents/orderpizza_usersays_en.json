@@ -1,0 +1,234 @@
+[
+  {
+    "id": "006a219a-6a63-4a20-8700-3ebcb4270240",
+    "data": [
+      {
+        "text": "pizza",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a7536978-2f23-4a73-b307-2056f069609a",
+    "data": [
+      {
+        "text": "order",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "07c7a270-a6dc-49bd-8403-aadef8f686ae",
+    "data": [
+      {
+        "text": "soyabean",
+        "meta": "@pizzaname",
+        "alias": "pizzaname",
+        "userDefined": false
+      },
+      {
+        "text": " pizza",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4b5e21ea-15fa-4029-89b8-afbdd8f787b4",
+    "data": [
+      {
+        "text": "I want delivery  by ",
+        "userDefined": false
+      },
+      {
+        "text": "2pm",
+        "meta": "@sys.time",
+        "alias": "time",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b7e2e011-e949-46b6-babd-57d26ae60eb9",
+    "data": [
+      {
+        "text": "I want delivery by ",
+        "userDefined": false
+      },
+      {
+        "text": "today",
+        "meta": "@sys.date",
+        "alias": "date",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b2d4887b-62ab-47de-86df-3a6ea34c4015",
+    "data": [
+      {
+        "text": "my phone number is ",
+        "userDefined": false
+      },
+      {
+        "text": "677478384",
+        "meta": "@phonebook",
+        "alias": "phonebook",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8b2ab38b-56c9-45a0-ae9b-f0317110f33e",
+    "data": [
+      {
+        "text": "My adress is ",
+        "userDefined": false
+      },
+      {
+        "text": "payyannur",
+        "meta": "@sys.any",
+        "alias": "listad",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4dc8592f-9d3d-4e0f-860e-d5e4d1243bc6",
+    "data": [
+      {
+        "text": "My name is ",
+        "userDefined": false
+      },
+      {
+        "text": "aswathi",
+        "meta": "@sys.any",
+        "alias": "listname",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "85048bcd-4ac0-4e8f-b28d-48241ec2afd1",
+    "data": [
+      {
+        "text": "I want ",
+        "userDefined": false
+      },
+      {
+        "text": "3",
+        "meta": "@count",
+        "alias": "count",
+        "userDefined": true
+      },
+      {
+        "text": " pizza",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b89dac46-4135-41e0-aee0-e8dc2ac75785",
+    "data": [
+      {
+        "text": "I want  ",
+        "userDefined": false
+      },
+      {
+        "text": "small",
+        "meta": "@pizzasize",
+        "alias": "pizzasize",
+        "userDefined": true
+      },
+      {
+        "text": " pizza",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "53308d37-922a-4e97-9e3e-10bc570940e4",
+    "data": [
+      {
+        "text": "I want ",
+        "userDefined": false
+      },
+      {
+        "text": "thin",
+        "meta": "@pizzacrust",
+        "alias": "pizzacrust",
+        "userDefined": true
+      },
+      {
+        "text": " crust",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "dfd5e912-1f7b-44de-86a9-a355d9d3833c",
+    "data": [
+      {
+        "text": "i want  ",
+        "userDefined": false
+      },
+      {
+        "text": "onion",
+        "meta": "@pizzatopping",
+        "alias": "pizzatopping",
+        "userDefined": true
+      },
+      {
+        "text": " toppings",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

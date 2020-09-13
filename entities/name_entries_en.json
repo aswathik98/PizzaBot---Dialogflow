@@ -1,0 +1,20 @@
+[
+  {
+    "value": "@sys.person:person",
+    "synonyms": [
+      "@sys.person:person"
+    ]
+  },
+  {
+    "value": "Anu",
+    "synonyms": [
+      "Anu"
+    ]
+  },
+  {
+    "value": "Ram",
+    "synonyms": [
+      "Ram"
+    ]
+  }
+]

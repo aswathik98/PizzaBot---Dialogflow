@@ -1,0 +1,9 @@
+{
+  "id": "f039d513-610c-4343-9909-a326b3e5a2c9",
+  "name": "pizzacrust",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}
