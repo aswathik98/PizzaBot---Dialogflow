@@ -17,16 +17,14 @@ PizzaBot 🤖 🍕used for ordering pizza 🍕🍕, created uisng dialogflow and
    * All the entered data is stored in firebase database.
    
  ## Architecture
-   <img src="images/2.png">
    <img src="images/1.png"> 
-   
+   <img src="images/2.png">
  ## Screenshots
  ## DialogFlow
  <img src="screenshots/1.png" width="250" style="max-width:100%;"> <img src="screenshots/2.png" width="250" style="max-width:100%;">
  <img src="screenshots/3.png" width="250" style="max-width:100%;">
  ## Firebase
   <img src="screenshots/4.png" width="250" style="max-width:100%;">
-  <hr>
  ## YOYO PIZZABOT
   <img src="screenshots/5.png" width="250" style="max-width:100%;"> <img src="screenshots/6.png" width="250" style="max-width:100%;">
   <img src="screenshots/7.png" width="250" style="max-width:100%;"> <img src="screenshots/8.png" width="250" style="max-width:100%;"> 
