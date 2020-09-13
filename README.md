@@ -1,5 +1,5 @@
 # YOYO PizzaBot-Dialogflow
-PizzaBot 🤖 🍕used for ordering pizza 🍕🍕, created uisng dialogflow and firebase . This is an assignment from Yellow Messenger.
+PizzaBot 🤖 🍕used for ordering pizza 🍕🍕, created using dialogflow and firebase . This is an assignment from Yellow Messenger.
 
 ## Check this link out for ordering the pizza with the help of bot
   <a href="https://rb.gy/xo3fha">https://rb.gy/xo3fha</a>
