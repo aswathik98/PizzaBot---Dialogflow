@@ -2,7 +2,7 @@
 PizzaBot 🤖 🍕used for ordering pizza 🍕🍕, created uisng dialogflow and firebase . This is an assignment from Yellow Messenger.
 
 ## Check this link out for ordering the pizza with the help of bot
-    https://rb.gy/xo3fha
+  <a href="https://rb.gy/xo3fha">https://rb.gy/xo3fha</a>
     
 ## Instructions for The PizzaBot
    * Start with hi or hello
@@ -17,5 +17,6 @@ PizzaBot 🤖 🍕used for ordering pizza 🍕🍕, created uisng dialogflow and
    * All the entered data is stored in firebase database.
    
  ## Architecture
+   <img src="images/1.png" width="250" style="max-width:100%;"> <img src="images/2.png" width="250" style="max-width:100%;">
  
     
