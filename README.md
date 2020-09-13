@@ -18,6 +18,10 @@ PizzaBot 🤖 🍕used for ordering pizza 🍕🍕, created uisng dialogflow and
    
  ## Architecture
    <img src="images/2.jpg">
-   <img src="images/1.png" width="250" style="max-width:100%;"> 
+   <img src="images/1.png"> 
+   
+ ## Screenshots
+ ## DialogFlow
+ <img src="screenshots/1.png" width="250" style="max-width:100%;">
  
     
